@@ -88,5 +88,12 @@ The data includes two charts with stock information on 12 different stocks. The 
 
 ### performance of the different stocks
 Obviously in 2018, most of the stocks are not performed good compared with 2017 but there is two with code ENPH and RUN it increase rapidly. That is how macroeconomic affected the market in 2018
+### Pros and Cons of Refactoring Code
+Refactoring code helps make the date visualized. Person who can easily find the preformance by given instructions .In reality, huge data it is super hard to be visualized by using this code
+
+### The Advantages of Refactoring Stock Analysis
+
+The biggiest of the Refactoring Stock VBA is that code is running less time than original one.
+
 
 
